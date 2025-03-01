@@ -1,11 +1,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Rodrigo Gonçalves Giancott Magalhães
+Matricula: 1506260
 
 ## Tela de inspeção com navegador
+https://media-hosting.imagekit.io//dd6efc6ad4b54e3a/screenshot_1740826046057.png?Expires=1835433663&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JJK6EE7VHuurjqQ-DA9VIxrpocKDPOwyD-Lc0R8zXb~3U0-kb8SwiulN9b79kWGUJ3HR3Ltl6knL5HAde8N~V5tT3X8seRfS1CK~RoItykjZZKZfpWZb1F1cKKTZg~OSoM-BHoPHnGa0E4eN~MccT7bO7FC2jGzH1lpe-zRoFQ8axiQ5AsTGR5LRfcfd7mGxW5z73ur0bXgqvfU72zR0vDYpRyAifypl6MiOMlmX1D9dUeqR6YNk1YDr~iXOeVpiBPJwy~hhzM8Oi6Z0LjlCbC42g47P3BOsgnUp-F8ULiJR0XAuO0iq9gtfk-N2cddWbnmR3xbQPF7~yzzPrUuC9g__
 
 
 ## Tela de projeto no Replit
+https://media-hosting.imagekit.io//162a1f5d0e3c48c6/screenshot_1740826758405.png?Expires=1835434375&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Tv15oGpWmjIl03J8JI6xNrc1K-UsfUy8y4tkRbD7f9-X~A9gqVwB7D3j16m667TSaQjOjj7OySicO9riuxK4fdmJAerNYwcwF3JQWheB3Tngd6bR43C6bjWaZFBUAQ36oi~VhRyQAnC3flGDvGZTWwOPjL4CMgVL~gnZsioyOMACaQPpwxzpVjzVCPyB2I0~lplMxhVOrNR1R2kYIQ31bQqm-J-RtjFsbIWcIlyBWCzBP~ZjHu1hMFsfOqVcrYreeZpAtqwy50IirC~TxXdpFx7tFGfJOgN2QlENDpYh0Mc95e7uup9G~MIwZMfTZwPoj09Buu0gCFBbiN-Dtw3KrQ__
 
